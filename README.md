@@ -1,5 +1,5 @@
 # MD 파일수정
-### 이 repository는
+### 이 repository는,
 * remotepository 생성
 *Local로Clone
 *Local에서 수정
